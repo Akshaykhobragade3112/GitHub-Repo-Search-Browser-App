@@ -4,8 +4,8 @@ import helmet from "helmet";
 import morgan from "morgan";
 import dotenv from "dotenv";
 import mongoose from "mongoose";
-import searchRoutes from "./routes/search.routes.js";
-import { notFound, errorHandler } from "./middleware/error.js";
+import searchRoutes from "./src/routes/search.routes.js";
+import { notFound, errorHandler } from "./src/middleware/error.js";
 
 dotenv.config();
 
