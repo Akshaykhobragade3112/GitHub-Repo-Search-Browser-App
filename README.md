@@ -118,7 +118,7 @@ Click Search
 
 Browse repository results
 
-Clear input → results reset automatically
+Clear input and results reset automatically
 
 
 ## Deployed Link:
